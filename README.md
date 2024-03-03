@@ -7,7 +7,7 @@ https://github.com/opencollective
 # Staging link: 
 [https://sewa.ssomai.com.np/](https://sewa.ssomai.com.np/)
 
-# Demo Administration credential
+# Demo Contributor & Manager credential
 Email: 
 password: 
 
